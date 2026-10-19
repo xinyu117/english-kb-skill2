@@ -1,11 +1,154 @@
 {
-  "generatedAt": "2026-08-15T14:36:06.942Z",
+  "generatedAt": "2026-10-19T07:45:43.595Z",
   "sources": [
     "logs/generation.log.jsonl",
     "base/*.json",
     "base/*.learning-assets.json"
   ],
   "knowledgePoints": [
+    {
+      "id": "eng_grammar_preposition_of_b1",
+      "log": {
+        "ts": "2026-10-19T16:20:13+09:00",
+        "action": "CREATED",
+        "artifactType": "KNOWLEDGE_POINT",
+        "id": "eng_grammar_preposition_of_b1",
+        "file": "base/eng_grammar_preposition_of_b1.json",
+        "request": "Create a B1 knowledge point for the common uses of of",
+        "userPrompt": "$english-kb of的用法",
+        "validation": "PASS",
+        "createdAt": "2026-10-19T16:19:34.3047876+09:00",
+        "category": "GRAMMAR",
+        "subcategory": "PREPOSITION",
+        "difficulty": "B1"
+      },
+      "content": {
+        "id": "eng_grammar_preposition_of_b1",
+        "category": "GRAMMAR",
+        "subcategory": "PREPOSITION",
+        "difficulty": "B1",
+        "targetAgeMin": 12,
+        "targetAgeMax": 18,
+        "targetAgeGroup": "teen",
+        "tags": [
+          "preposition",
+          "of",
+          "possession",
+          "part and whole",
+          "quantity",
+          "material",
+          "collocation",
+          "noun phrase"
+        ],
+        "definition": {
+          "name": "介词 of 的常见用法",
+          "description": "of 是最常用的英语介词之一，核心作用是连接名词或名词短语，表达所属或关联、整体与部分、数量或群体、构成或材料、来源、主题等关系。它后面通常接名词或名词短语；代词作宾语时用宾格（如 one of us），也可接动名词（如 afraid of failing）。of 没有单一固定的中文译法，需要根据前后词的关系或固定搭配判断含义。"
+        },
+        "examples": [
+          {
+            "english": "The name of the school is Green Hill.",
+            "translation": "这所学校的名字是 Green Hill。",
+            "note": "表示名称与学校之间的所属或关联关系。"
+          },
+          {
+            "english": "The roof of the old house needs repair.",
+            "translation": "那座老房子的屋顶需要修缮。",
+            "note": "表示整体（the old house）与部分（the roof）的关系。"
+          },
+          {
+            "english": "She bought a cup of tea.",
+            "translation": "她买了一杯茶。",
+            "note": "表示数量或计量单位：a cup of tea。"
+          },
+          {
+            "english": "One of my friends lives in Tokyo.",
+            "translation": "我的一个朋友住在东京。",
+            "note": "one of + 复数名词表示“……之一”，谓语与 one 保持一致。"
+          },
+          {
+            "english": "The table is made of wood.",
+            "translation": "这张桌子是用木头做的。",
+            "note": "be made of 表示成品仍能看出原材料，是常见固定搭配。"
+          },
+          {
+            "english": "Have you heard of this singer?",
+            "translation": "你听说过这位歌手吗？",
+            "note": "hear of 表示“听说、知道……的存在”，属于固定搭配。"
+          },
+          {
+            "english": "She is afraid of making mistakes.",
+            "translation": "她害怕犯错。",
+            "note": "形容词 afraid 后接 of，of 后可使用动名词 making。"
+          },
+          {
+            "english": "The story explores the power of friendship.",
+            "translation": "这个故事探讨了友谊的力量。",
+            "note": "表示两个抽象概念之间的联系：friendship 所具有的力量。"
+          }
+        ],
+        "expressions": [
+          {
+            "expression": "the name of the school / the color of the wall",
+            "meaning": "表示事物之间的所属、名称或特征关联",
+            "register": "neutral",
+            "scenario": "介绍人物、地点或描述事物特征"
+          },
+          {
+            "expression": "the roof of the house / the end of the film",
+            "meaning": "表示整体与部分，或整体中的某个位置、阶段",
+            "register": "neutral",
+            "scenario": "描述物体结构或事件进程"
+          },
+          {
+            "expression": "a cup of tea / two pieces of paper / a group of students",
+            "meaning": "表示数量、单位或一组人或事物",
+            "register": "neutral",
+            "scenario": "说明数量、容器、单位或群体"
+          },
+          {
+            "expression": "be made of wood / a dress of silk",
+            "meaning": "表示物品由某种材料或成分构成",
+            "register": "neutral",
+            "scenario": "说明物品的材料或组成"
+          },
+          {
+            "expression": "one of my friends / some of them",
+            "meaning": "表示某个或某些成员属于一个更大的群体",
+            "register": "neutral",
+            "scenario": "从特定群体中选出一个或一部分"
+          },
+          {
+            "expression": "be afraid of / think of / hear of",
+            "meaning": "构成形容词、动词与 of 的常见固定搭配",
+            "register": "neutral",
+            "scenario": "表达感受、思考或获知信息"
+          }
+        ],
+        "relatedTopics": [
+          "eng_grammar_possession_of_s_b1",
+          "eng_grammar_prepositions_at_on_in_b1"
+        ],
+        "source": null,
+        "createdAt": "2026-10-19T16:19:34.3047876+09:00",
+        "updatedAt": null
+      },
+      "hasContent": true,
+      "learningAssetCount": 12,
+      "assetStrategies": [
+        "CLASSIFICATION",
+        "COMPARISON",
+        "ASSOCIATION",
+        "EXAMPLE",
+        "COUNTER_EXAMPLE",
+        "PRODUCTION",
+        "EXPLANATION",
+        "SCENARIO",
+        "DIALOGUE",
+        "MNEMONIC",
+        "CONFUSION",
+        "EXTENSION"
+      ]
+    },
     {
       "id": "eng_expression_fixed_expression_no_matter_what_b1",
       "log": {
@@ -320,8 +463,21 @@
         "updatedAt": null
       },
       "hasContent": true,
-      "learningAssetCount": 0,
-      "assetStrategies": []
+      "learningAssetCount": 15,
+      "assetStrategies": [
+        "CLASSIFICATION",
+        "EXPLANATION",
+        "COMPARISON",
+        "ASSOCIATION",
+        "EXAMPLE",
+        "COUNTER_EXAMPLE",
+        "CONFUSION",
+        "SCENARIO",
+        "DIALOGUE",
+        "MNEMONIC",
+        "PRODUCTION",
+        "EXTENSION"
+      ]
     },
     {
       "id": "eng_grammar_modal_will_future_a2",

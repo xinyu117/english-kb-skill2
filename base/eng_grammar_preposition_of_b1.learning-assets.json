@@ -1,0 +1,202 @@
+{
+  "id": "asset_eng_grammar_preposition_of_b1",
+  "knowledgePointId": "eng_grammar_preposition_of_b1",
+  "title": "Learning assets for the preposition of",
+  "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+  "updatedAt": null,
+  "assets": [
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_classification",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "CLASSIFICATION",
+      "title": "Preposition inside a noun phrase",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "classification": {
+        "parent": "Prepositions in noun phrases",
+        "reason": "of 属于介词，通常在名词短语内部建立两个名词性成分之间的关系。它不应只按某一个中文义项记忆，而要根据所属、部分、数量、材料或固定搭配等结构关系判断。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_comparison",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "COMPARISON",
+      "title": "of and possessive 's",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "comparison": {
+        "compareWith": "of and 's",
+        "similarities": [
+          "两者都能连接两个名词性成分，表达所属或密切关联。",
+          "在部分语境中，两者可以表达相近的人与物、物与物之间的关系。"
+        ],
+        "differences": [
+          "of 通常放在被说明的名词之后，如 the roof of the house；'s 通常放在所有者之后，如 the house's roof。",
+          "简短的人或动物所有者更常用 's；事物、部分、抽象概念和较长名词短语更常用 of。",
+          "并非所有由 of 表达的关系都能自然改写成 's，固定搭配尤其不能机械替换。"
+        ]
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_association",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "ASSOCIATION",
+      "title": "Useful of-phrases",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "association": {
+        "relatedTopics": [
+          "eng_grammar_possession_of_s_b1",
+          "eng_grammar_prepositions_at_on_in_b1"
+        ],
+        "relatedWords": [
+          "the name of the street",
+          "a piece of cake",
+          "two bottles of water",
+          "a member of the team",
+          "be made of glass",
+          "a photo of my family",
+          "think of an idea",
+          "be afraid of spiders"
+        ],
+        "note": "建议按“所属、整体与部分、数量与群体、材料、固定搭配”分组记忆，并同时关注 of 后接的是名词、宾格代词还是动名词。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_example",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "EXAMPLE",
+      "title": "One member of a group",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "example": {
+        "english": "A member of our class designed the poster.",
+        "translation": "我们班的一名成员设计了这张海报。",
+        "note": "a member of our class 表示“我们班成员中的一个”，of 连接个体与所属群体；翻译时不必机械地译成“……的”。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_counter_example",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "COUNTER_EXAMPLE",
+      "title": "Wrong preposition after afraid",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "counterExample": {
+        "wrong": "She is afraid from making mistakes.",
+        "reason": "表示“害怕……”的固定搭配是 be afraid of，不是 be afraid from。of 是介词，后面接动名词 making。正确说法是：She is afraid of making mistakes."
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_production",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "PRODUCTION",
+      "title": "Production prompt",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "production": {
+        "mySentence": "请围绕一次班级活动写 5 个英文句子：一处所属或关联、一处整体与部分、一处数量或群体、一处材料或构成，以及一个含 of 的固定搭配。",
+        "feedback": "逐句检查 of 前后是什么关系，以及 of 后接的是否为名词短语、宾格代词或动名词；同时确认固定搭配没有被替换成其他介词。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_explanation",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "EXPLANATION",
+      "title": "Understand the relationship, not just the translation",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "explanation": {
+        "myUnderstanding": "理解 of 时，先问它前后两个成分是什么关系，再决定中文含义。the name of the school 表示名称与学校的关联；the roof of the house 表示整体与部分；a cup of tea 表示数量或单位；one of my friends 表示群体中的一员；be made of wood 表示材料；be afraid of 则是固定搭配。of 是介词，后面通常接名词短语，代词要用宾格，如 one of us，动词则常用动名词，如 afraid of failing。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_scenario",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "SCENARIO",
+      "title": "Introducing a family photo",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "scenario": {
+        "description": "你正在向一位交换生介绍家庭照片。你可以说：This is a photo of my family. The house in the middle of the picture is my grandparents' home. One of the windows is open, and the roof of the house needs repair. 介绍时尝试说明每处 of 连接的是哪两个成分，以及它们在表达什么关系。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_dialogue",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "DIALOGUE",
+      "title": "Talking about an old house",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "dialogue": {
+        "conversation": [
+          {
+            "speaker": "Maya",
+            "text": "What's that photo on your desk?"
+          },
+          {
+            "speaker": "Ben",
+            "text": "It's a photo of my grandparents' old house."
+          },
+          {
+            "speaker": "Maya",
+            "text": "The roof of the house looks old."
+          },
+          {
+            "speaker": "Ben",
+            "text": "Yes, and one of the windows is broken."
+          },
+          {
+            "speaker": "Maya",
+            "text": "Are they planning to fix it?"
+          },
+          {
+            "speaker": "Ben",
+            "text": "They are thinking of selling it, but they haven't decided."
+          }
+        ]
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_mnemonic",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "MNEMONIC",
+      "title": "Ask what the two sides share",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "mnemonic": {
+        "method": "关系分类法",
+        "content": "看到 of，先问“前后是什么关系？”再判断：是谁的、哪一部分、多少或哪一批、什么材料，还是固定搭配。口诀是：of 不只会翻成“的”，先找关系再翻译。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_confusion",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "CONFUSION",
+      "title": "made of and made from",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "confusion": {
+        "confusedWith": "be made of and be made from",
+        "reason": "be made of 常用于成品仍能看出原材料或基本保持材料形态的情况，如 a table made of wood；be made from 更强调原料经过加工或变化，如 paper made from wood。实际使用中存在语料差异，关键是看是否强调材料转变，而不是只按中文“由……制成”硬套。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_preposition_of_b1_extension",
+      "knowledgePointId": "eng_grammar_preposition_of_b1",
+      "strategy": "EXTENSION",
+      "title": "Next learning steps",
+      "createdAt": "2026-10-19T16:31:47.7754594+09:00",
+      "updatedAt": null,
+      "extension": {
+        "nextTopics": [
+          "of-phrases in complex noun phrases",
+          "Partitives and measurement phrases",
+          "Adjectives and verbs followed by of",
+          "Double genitive: a friend of mine",
+          "Preposition choice in fixed expressions"
+        ]
+      }
+    }
+  ]
+}

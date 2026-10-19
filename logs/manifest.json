@@ -35,6 +35,12 @@
     "type": "KNOWLEDGE_POINT",
     "id": "eng_grammar_modal_could_a2"
   },
+  "base/eng_grammar_modal_could_a2.learning-assets.json": {
+    "mtime": 1787025600815.575,
+    "size": 9863,
+    "type": "LEARNING_ASSET",
+    "id": "asset_eng_grammar_modal_could_a2"
+  },
   "base/eng_grammar_modal_will_future_a2.json": {
     "mtime": 1786688722891.595,
     "size": 942,

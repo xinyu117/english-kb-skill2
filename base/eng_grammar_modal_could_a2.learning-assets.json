@@ -1,0 +1,233 @@
+{
+  "id": "asset_eng_grammar_modal_could_a2",
+  "knowledgePointId": "eng_grammar_modal_could_a2",
+  "title": "情态动词 could 学习资源",
+  "createdAt": "2026-08-18T09:00:00+09:00",
+  "updatedAt": null,
+  "assets": [
+    {
+      "id": "asset_eng_grammar_modal_could_a2_classification",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "CLASSIFICATION",
+      "title": "语法类别",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "classification": {
+        "parent": "情态动词",
+        "reason": "could 是情态动词，也是 can 的过去式，但 A2 阶段更常用来表达过去的能力、现在或将来的可能性，以及委婉请求。情态动词后必须接动词原形，不随主语变化。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_explanation",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "EXPLANATION",
+      "title": "核心规则",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "explanation": {
+        "myUnderstanding": "could 后接动词原形，主要有三种常见用法：表示过去的能力，如 When I was five, I could ride a bike.；表示现在或将来的可能性，语气比 can 更不确定、更委婉，如 It could rain later.；用于礼貌请求，如 Could you open the window, please?。否定式是 couldn’t / could not。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_comparison",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "COMPARISON",
+      "title": "can 与 could",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "comparison": {
+        "compareWith": "can and could",
+        "similarities": [
+          "两者都是情态动词，后接动词原形，不随主语变化。",
+          "两者都能表示能力、可能性和请求。",
+          "两者都通过加 not 构成否定，分别缩写为 can’t 和 couldn’t。"
+        ],
+        "differences": [
+          "can 多用于现在的能力和较强的可能性；could 可用于过去能力、较弱或不确定的可能性。",
+          "Could you...? 比 Can you...? 更客气、更委婉。",
+          "表示过去的能力时用 could，不用 can。"
+        ]
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_association",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "ASSOCIATION",
+      "title": "常用搭配",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "association": {
+        "relatedTopics": [
+          "eng_grammar_modal_can_a2",
+          "eng_grammar_pronouns_indefinite_a2",
+          "eng_grammar_modal_would_hypothetical_b1"
+        ],
+        "relatedWords": [
+          "could be",
+          "could fail",
+          "could rain",
+          "could you...?",
+          "couldn't",
+          "I could...",
+          "we could..."
+        ],
+        "note": "先记住 could be、could you 和 couldn’t 这些高频形式，再根据语境判断是“过去能力”“可能性”还是“委婉请求”。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_example_zootopia",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "EXAMPLE",
+      "title": "来自《疯狂动物城》的可能性表达",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "example": {
+        "english": "Everyone comes to Zootopia, thinking they could be anything they want.",
+        "translation": "每个人都来到动物城，想着自己可以成为任何想成为的样子。",
+        "note": "could be 表示想象中的可能性，语气比 can be 更委婉、不确定。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_example_past_ability",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "EXAMPLE",
+      "title": "过去的能力",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "example": {
+        "english": "When I was five, I could ride a bike.",
+        "translation": "我五岁时会骑自行车。",
+        "note": "这里 could 表示过去具备的能力。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_example_polite_request",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "EXAMPLE",
+      "title": "委婉请求",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "example": {
+        "english": "Could you open the window, please?",
+        "translation": "你能打开窗户吗？",
+        "note": "Could you...? 是礼貌请求，比 Can you...? 更客气。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_counter_verb_form",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "COUNTER_EXAMPLE",
+      "title": "情态动词后误加动词变化",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "counterExample": {
+        "wrong": "She could plays the piano.",
+        "reason": "情态动词 could 后必须接动词原形，不能加 -s。正确说法是：She could play the piano."
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_counter_can_past",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "COUNTER_EXAMPLE",
+      "title": "过去能力误用 can",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "counterExample": {
+        "wrong": "When I was five, I can ride a bike.",
+        "reason": "表示过去的能力要用 could，不用 can。正确说法是：When I was five, I could ride a bike."
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_confusion_can_could",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "CONFUSION",
+      "title": "could 不只表示过去",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "confusion": {
+        "confusedWith": "could 和 can",
+        "reason": "学习者容易把 could 只理解成“can 的过去式”。其实 could 也常用于现在或将来的可能性，而且比 can 更不确定、更委婉。例如 It could rain later.（稍后可能会下雨）比 It can rain later. 更自然，表达的是推测而非确定的可能。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_scenario_weekend_plan",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "SCENARIO",
+      "title": "计划周末野餐",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "scenario": {
+        "description": "朋友正在计划周末野餐，但天气不确定。你说：It could rain on Saturday, so we should bring umbrellas.（周六可能会下雨，所以我们应该带伞。）朋友建议：We could meet at the station at nine.（我们可以九点在地铁站见面。）这里 could 分别表达可能性和提议。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_dialogue",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "DIALOGUE",
+      "title": "请求与可能性对话",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "dialogue": {
+        "conversation": [
+          {
+            "speaker": "Mia",
+            "text": "Could you help me with my homework?（你能帮我看看作业吗？）"
+          },
+          {
+            "speaker": "Leo",
+            "text": "Sure. Which part could be wrong?（当然。哪一部分可能错了？）"
+          },
+          {
+            "speaker": "Mia",
+            "text": "This answer could be the problem.（这个答案可能是问题所在。）"
+          },
+          {
+            "speaker": "Leo",
+            "text": "I think we could check it together.（我觉得我们可以一起检查。）"
+          }
+        ]
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_mnemonic",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "MNEMONIC",
+      "title": "can 的软版本",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "mnemonic": {
+        "method": "口诀",
+        "content": "把 could 想象成 can 的“软版本”：现在能力用 can，过去能力或不确定的可能性用 could；请求时 Could you...? 更客气。口诀：can 表“能”，could 表“可能 / 过去能 / 请问”。"
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_production",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "PRODUCTION",
+      "title": "学生输出任务",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "production": {
+        "mySentence": "用 could 写两个句子：一句表示过去的能力，一句表示现在或将来的可能性。",
+        "feedback": "检查 could 后是否用了动词原形；过去能力用 could + 动词原形，可能性可用 could be / could rain / could fail。如果表达现在确定的能力，改用 can。",
+        "score": 5
+      }
+    },
+    {
+      "id": "asset_eng_grammar_modal_could_a2_extension",
+      "knowledgePointId": "eng_grammar_modal_could_a2",
+      "strategy": "EXTENSION",
+      "title": "下一步学习",
+      "createdAt": "2026-08-18T09:00:00+09:00",
+      "updatedAt": null,
+      "extension": {
+        "nextTopics": [
+          "can / could / may / might 的可能性强弱",
+          "was/were able to 与 could 的过去能力区别",
+          "Could you...? 和 Would you...? 的委婉请求",
+          "条件句中的 could（If I had more time, I could help.）"
+        ]
+      }
+    }
+  ]
+}
